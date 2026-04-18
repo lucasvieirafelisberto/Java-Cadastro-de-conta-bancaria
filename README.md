@@ -18,12 +18,13 @@ Estruturas condicionais
 Java
 
 ▶️ Como executar
+
 git clone https://github.com/lucasvieirafelisberto/Java-Cadastro-de-conta-bancaria.git
 cd Java-Cadastro-de-conta-bancaria
 javac *.java
 java NomeDaClassePrincipal
-🎯 Objetivo
 
+🎯 Objetivo
 Praticar conceitos básicos de Java através de um exemplo simples de sistema bancário.
 
 🔮 Melhorias futuras
