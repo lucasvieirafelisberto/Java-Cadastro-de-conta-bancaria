@@ -1,4 +1,36 @@
-# JAVA ☕ - Sistema Cadastro de conta bancaria
+📘 Sistema de Cadastro de Conta Bancária
 
-Um sistema simples de cadastro de conta bancária onde mostra cliente, conta poupanca, agencia e saldo da conta
+Aplicação simples em Java para simular o cadastro de contas bancárias via terminal, com foco em prática de lógica e Programação Orientada a Objetos.
 
+🚀 Funcionalidades
+Cadastro de conta bancária
+Armazenamento de dados do cliente
+Definição de número da conta e agência
+Interação via terminal
+
+🧠 Conceitos aplicados
+Programação Orientada a Objetos (POO)
+Classes e atributos
+Entrada e saída de dados
+Estruturas condicionais
+
+🛠️ Tecnologias
+Java
+
+▶️ Como executar
+git clone https://github.com/lucasvieirafelisberto/Java-Cadastro-de-conta-bancaria.git
+cd Java-Cadastro-de-conta-bancaria
+javac *.java
+java NomeDaClassePrincipal
+🎯 Objetivo
+
+Praticar conceitos básicos de Java através de um exemplo simples de sistema bancário.
+
+🔮 Melhorias futuras
+Depósito e saque
+Transferências
+Validações
+Interface gráfica
+
+👨‍💻 Autor
+Lucas Vieira Felisberto
